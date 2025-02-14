@@ -1,0 +1,9 @@
+{
+	"name": "adfassignment1421",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd7e96b0-25e3-439a-9d03-79b9f4d976e5",
+		"tenantId": "4ddd393a-e98a-4404-841f-c4becdd925a5"
+	}
+}
